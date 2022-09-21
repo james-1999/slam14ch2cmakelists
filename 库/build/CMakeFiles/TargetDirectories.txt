@@ -1,0 +1,14 @@
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/CMakeFiles/install/strip.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/CMakeFiles/install/local.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/CMakeFiles/install.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/CMakeFiles/list_install_components.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/CMakeFiles/edit_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/install/strip.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/install/local.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/install.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/list_install_components.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/rebuild_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/edit_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/main.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/build/out/CMakeFiles/hello.dir

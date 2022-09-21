@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/src/hello.cpp
+iostream
+-
+hello.h
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/库/src/hello.h
+
