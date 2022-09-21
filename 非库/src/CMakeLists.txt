@@ -1,0 +1,5 @@
+aux_source_directory(${PROJECT_SOURCE_DIR}/src SRC_LIST)
+# message(STATUS ${SRC_LIST})
+include_directories(${PROJECT_SOURCE_DIR}/include  )
+set(CMAKE_BUILD_TYPE Release)
+add_executable(sayhello ${SRC_LIST})

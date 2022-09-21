@@ -1,0 +1,6 @@
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/非库/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/非库/build/CMakeFiles/edit_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/非库/build/CMakeFiles/sayhellotop.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/非库/build/out/CMakeFiles/rebuild_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/非库/build/out/CMakeFiles/edit_cache.dir
+/home/ubuntu64/SLAM_homework/ch2/th4Cmake_practice/非库/build/out/CMakeFiles/sayhello.dir
